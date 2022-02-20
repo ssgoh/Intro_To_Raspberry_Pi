@@ -14,6 +14,8 @@ reset_button=Button(21)
 buzz = Buzzer(16)
 buzz.off()
 
+password='12345'
+
 def alarm():
     red_led.blink(on_time=.5,off_time=.5,n=20)
     buzz.blink(on_time=.5,off_time=.5,n=20)
@@ -24,10 +26,14 @@ def armAlarm():
     motion_detector.when_motion = alarm
     
 def disarmAlarm():
-    armed_led.off()
-    buzz.off()
-    red_led.off()
-    motion_detector.when_motion = None
+    pwd=input('Enter Reset Password ')
+    if pwd != password:
+        pass
+    else
+        armed_led.off()
+        buzz.off()
+        red_led.off()
+        motion_detector.when_motion = None
     
     
 
