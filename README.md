@@ -38,3 +38,4 @@ Please feel free to download them.
 Thank you for you interest in learning Python.
 
 SS Goh
+https://www.zaobao.com.sg/lifestyle/familynlove/story20220116-1233449
