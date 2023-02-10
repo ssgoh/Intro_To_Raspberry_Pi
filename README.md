@@ -7,29 +7,29 @@ in the hope that you will pursue learning it on your own or through attending
 more advance courses.
 
 
-Introduction to Python
+- Introduction to Python
 
-What is Python and why use it?
+- What is Python and why use it?
 
-Setting up a development environment
+- Setting up a development environment
 
-Basic data types in Python
+- Basic data types in Python
 
-Variables and data types (int, float, str, etc.)
+- Variables and data types (int, float, str, etc.)
 
-Operators (arithmetic, comparison, etc.)
+- Operators (arithmetic, comparison, etc.)
 
-Control structures in Python
+- Control structures in Python
 
-Conditional statements (if/else)
+- Conditional statements (if/else)
 
-Loops (for/while)
+- Loops (for/while)
 
-Functions and modules in Python
+- Functions and modules in Python
 
-Defining and using functions
+- Defining and using functions
 
-Importing and using external modules
+- Importing and using external modules / Libraries
 
 
 Course and lesson notes are available to you on this Github repository.
