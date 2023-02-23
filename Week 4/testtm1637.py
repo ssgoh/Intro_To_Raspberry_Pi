@@ -12,6 +12,8 @@ utime.sleep(2)
 
 #to present data on the display
 #here are the examples
+tm.show('help')
+utime.sleep(2)
 tm.number(1)
 utime.sleep(2)
 tm.number(12)
